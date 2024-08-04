@@ -1,8 +1,6 @@
 ### Hi there 👋
 ---
-I'm ***Saket Kumar Singh*** 🙋🏻‍♂️,a software developer 🚀 with experience of building Web 🕸️
-) and Mobile 📱 applications. I Figure out things,currently pursuing my Bachelor's.
-
+I'm ***Saket Kumar Singh*** 🙋🏻‍♂️,a software developer 🚀 with experience of building Web 🕸️.
 
 - Solve some problems and I can read documentation and errors correctly to build scalable, testable, efficient and maintainable products.
 - Non-Tech time goes in to Music 🎵 , Food 🍜, Travel 🌏 ....
