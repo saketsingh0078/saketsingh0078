@@ -8,4 +8,5 @@ I'm ***Saket Kumar Singh*** 🙋🏻‍♂️,a software developer 🚀 with exp
 ### Connect with Me 🤝🏻
 [![Linkedin](https://img.shields.io/badge/Linkedin-saketssingh-blue&?style=for-the-badge&logo=linkedin&color=blue)](https://www.linkedin.com/in/saketssingh/)
 [![Github](https://img.shields.io/badge/Github-saketsingh0078-blue&?style=for-the-badge&logo=github&color=blue)](https://github.com/saketsingh0078)
+[![Twitter](https://img.shields.io/badge/Twitter-saketsingh0078-blue&?style=for-the-badge&logo=Twitter&color=blue)](https://x.com/Saketsingh0078)
 
